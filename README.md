@@ -1,5 +1,7 @@
 <h2>Netflix Clone - Index Page (React)</h2>
 
+preview here https://netflix-shibu.netlify.app/
+
 This project is a beginner-friendly guide to creating a Netflix clone index page using React. With a focus on fundamental React concepts, it provides an excellent starting point for aspiring developers.
 
 <h3>Features:</h3>
